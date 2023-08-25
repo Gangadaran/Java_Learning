@@ -10,16 +10,18 @@ import java.util.Map;
 public class Learn_Comparator {
 	public static void main(String[] args) {
 		
-//				List<Student> list = new ArrayList<>();
-//		list.add(new Student(43,"Ganga"));
-//		list.add(new Student(53,"Anu"));
-//		list.add(new Student(543,"Nithi"));
-//		list.add(new Student(54247,"Bharath")); 
-//		
-//		
-//		Collections.sort(list);
-//		
-//		System.out.println(list);
+
+				List<Student> list = new ArrayList<>();
+		list.add(new Student(45,"Ganga"));
+		list.add(new Student(53,"Anu"));
+		list.add(new Student(543,"Nithi"));
+		list.add(new Student(54247,"Bharath")); 
+		
+		
+		Collections.sort(list);
+		
+		System.out.println(list);
+
 		
 		
 		
